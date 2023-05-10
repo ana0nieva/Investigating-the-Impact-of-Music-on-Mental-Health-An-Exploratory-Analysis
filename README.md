@@ -10,6 +10,9 @@ The MxMH dataset was preprocessed and analyzed to:
 - Examine relationships between demographics, hours of listening to music, and its impact on mental health
 - Explore correlations between music genres and the mental health conditions
 
+# Data Source
+https://www.kaggle.com/datasets/catherinerasgaitis/mxmh-survey-results
+
 # File Descriptions
 - Music and Mental Health.ipynb: consists of Python scripts used to preprocess the data and to create bar graphs that identify any correlation between each of the four mental health conditions and the music genres
 - Tableau: consists of visuals that identify the relationships between: 1) the demographics and the four mental health conditions and 2) the demographics, hours of listening to music, and its impact on mental health
