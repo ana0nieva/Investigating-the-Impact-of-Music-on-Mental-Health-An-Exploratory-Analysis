@@ -13,11 +13,11 @@ The MxMH dataset was preprocessed and analyzed to:
 # Data Source
 https://www.kaggle.com/datasets/catherinerasgaitis/mxmh-survey-results
 
-# File Descriptions
+# Descriptions of the Uploaded Files
 - Music and Mental Health.ipynb: consists of Python scripts used to preprocess the data and to create bar graphs that identify any correlation between each of the four mental health conditions and the music genres
 - Music and Mental Health presentation: a compilation of the teams' visuals, along with our observations and conclusions from our exploratory analysis 
 
-# Other Files
+# Additional Links
 Music and Mental Health Visuals on Tableau: https://public.tableau.com/views/MusicandMentalHealthVisuals/DataOverviewAgeofRespondersandAmtofHoursofListeningtoMusicEachDay?:language=en-US&:display_count=n&:origin=viz_share_link
 
 This consists of my contributions to the visuals in the Music and Mental Health presentation. Below are the tab names:
@@ -47,5 +47,5 @@ If this were a work setting we present our findings to intended stakeholders-- S
 - When encouraging music therapy to their patients, the patients should to listen to music for about 3-4 hours per day, regardless of their mental health condition.
 - As to which genres to recommend, stakeholders should try to gauge to your patients’ music preferences, then from there, recommend which genre(s) would be more or less helpful to their mental health condition.
 
-# Made by:
+# Project Contributors:
 Sarah Lipoff, Alana Crumbley, Sory Sall, Ma. Ana Victoria Nieva
