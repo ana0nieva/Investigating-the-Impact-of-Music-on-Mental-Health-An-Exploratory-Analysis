@@ -15,8 +15,21 @@ https://www.kaggle.com/datasets/catherinerasgaitis/mxmh-survey-results
 
 # File Descriptions
 - Music and Mental Health.ipynb: consists of Python scripts used to preprocess the data and to create bar graphs that identify any correlation between each of the four mental health conditions and the music genres
-- Tableau: consists of visuals that identify the relationships between: 1) the demographics and the four mental health conditions and 2) the demographics, hours of listening to music, and its impact on mental health
-- Google Slides: a compilation of the teams' visuals, along with our observations and conclusions from our exploratory analysis 
+- Music and Mental Health presentation: a compilation of the teams' visuals, along with our observations and conclusions from our exploratory analysis 
+
+# Other Files
+Music and Mental Health Visuals on Tableau: https://public.tableau.com/views/MusicandMentalHealthVisuals/DataOverviewAgeofRespondersandAmtofHoursofListeningtoMusicEachDay?:language=en-US&:display_count=n&:origin=viz_share_link
+
+This consists of my contributions to the visuals in the Music and Mental Health presentation. Below are the tab names:
+- Data Overview: Age of Responders and Amt of Hours of Listening to Music Each Day
+- Data Overview: Mental Health Conditions
+- Responders that have Insomnia by Age Group
+- Responders that have OCD by Age Group
+- Average Daily Hours and Music Listening Impact
+- Primary Streaming Devices of Responders
+- Impact of Listening to Music On Mental Health While Working 
+- Average Hours of Listening to Various Artists/Genres 
+- Exploring various Artists/Genres Condition 
 
 # Challenges
 - We initially attempted a regression analysis to determine the correlations between the genres and the four mental health conditions, however there was no linear correlation.
